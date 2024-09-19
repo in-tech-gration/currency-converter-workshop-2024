@@ -12,7 +12,7 @@
 
 ## Prerequisites
 
-  - Create a free API key at [exchangerate-api.com](https://www.exchangerate-api.com/)
+  - Create a free API key at [exchangerate-api.com](https://www.exchangerate-api.com/). The API key that will be generated for you, will be a string in the following format: `45e31c9a2a1b6b0b8d6e1c2x`
 
   - Fork this repository
 
