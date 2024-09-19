@@ -17,3 +17,7 @@
   - `/assets/figma/`
     - Figma design for Beginner level: `Figma.Beginner.png`
     - Figma design for Advanced level: `Figma.Advanced.png`
+
+  - `/html/`
+    - Basic HTML page for the landing page: `/beginner/home.html`
+    - Basic HTML page for converter page: `/beginner/converter.html`
