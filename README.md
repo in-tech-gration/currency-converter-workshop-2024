@@ -1,5 +1,7 @@
 # Learn JavaScript with Jad Joubran Workshop 2024 
 
+![](./assets/header.png)
+
 ## Create a Currency Converter using the Exchange-Rate API in JavaScript
 
 ## Prerequisites
