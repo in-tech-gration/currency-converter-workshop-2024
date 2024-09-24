@@ -8,7 +8,7 @@
 
   Live workshop with [Jad Joubran](https://jadjoubran.io/) in collaboration with [intechgration.io]().
 
-  Project: [CurrencyProp Converter](https://learnjavascript.online/projects/currency-pro.html)
+  Project: [CurrencyPro Converter](https://learnjavascript.online/projects/currency-pro.html)
 
 ## Prerequisites
 
