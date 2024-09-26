@@ -13,6 +13,8 @@
 ## Prerequisites
 
   - Create a free API key at [exchangerate-api.com](https://www.exchangerate-api.com/). The API key that will be generated for you, will be a string in the following format: `45e31c9a2a1b6b0b8d6e1c2x`
+    - Spend some time studying the Documentation for the [Pair ExchangeRate-API endpoint](https://www.exchangerate-api.com/docs/pair-conversion-requests) and [Authentication](https://www.exchangerate-api.com/docs/authentication).
+    - Once you have your API key, do a test request directly through the browser and check that you get the appropriate response back: [https://v6.exchangerate-api.com/v6/45e31c9a2a1b6b0b8d6e1c2x/latest/USD](https://v6.exchangerate-api.com/v6/45e31c9a2a1b6b0b8d6e1c2x/latest/USD)
 
   - Fork this repository
 
