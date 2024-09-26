@@ -45,7 +45,7 @@
 
 ## References & Resources
 
-  During the live session, Jad used quite a lot of Web APIs and JavaScript command and also visited a few websites that helped him develop the app. He also mentioned a couple of tools and APIs that were not used. Here is a list of resources that cover all of these:
+  During the live session, Jad used quite a lot of Web APIs and JavaScript commands and also visited a few websites that helped him develop the app. He also mentioned a couple of tools and APIs that were not used. Here is a list of resources that cover all of these:
 
   - [JavaScript Modules](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules): related to `<script type="module">`
   - [The Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
